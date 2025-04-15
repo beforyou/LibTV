@@ -19,7 +19,8 @@ const API_SITES = {
 
     qyys: {
         api: 'https://v.hyage.com/',
-        name: '🔥互益'
+        name: '🔥互益',
+        detail: 'https://v.hyage.com/'
     },
      heimuer: {
         api: 'https://json.heimuer.xyz',
