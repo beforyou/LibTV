@@ -16,12 +16,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-
-    qyys: {
-        api: 'https://v.hyage.com/',
-        name: '🔥互益',
-        detail: 'https://v.hyage.com/'
-    },
      heimuer: {
         api: 'https://json.heimuer.xyz',
         name: '黑木耳',
