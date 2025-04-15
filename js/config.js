@@ -18,8 +18,8 @@ const SITE_CONFIG = {
 const API_SITES = {
 
     qyys: {
-        api: 'http://www.wdbay.com',
-        name: '🔥奇优影院'
+        api: 'https://v.hyage.com/',
+        name: '🔥互益'
     },
      heimuer: {
         api: 'https://json.heimuer.xyz',
