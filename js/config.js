@@ -19,8 +19,7 @@ const API_SITES = {
 
     qyys: {
         api: 'http://www.wdbay.com',
-        name: '🔥奇优影院',
-        detail: 'http://ffzy5.tv'
+        name: '🔥奇优影院'
     },
      heimuer: {
         api: 'https://json.heimuer.xyz',
