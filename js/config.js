@@ -7,8 +7,8 @@ const MAX_HISTORY_ITEMS = 5;
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    name: 'LibTV',
+    url: '',
     description: '免费在线视频搜索与观看平台',
     logo: 'https://images.icon-icons.com/38/PNG/512/retrotv_5520.png',
     version: '1.0.0'
@@ -16,15 +16,16 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    heimuer: {
+
+    qyys: {
+        api: 'http://www.wdbay.com',
+        name: '🔥奇优影院',
+        detail: 'http://ffzy5.tv'
+    },
+     heimuer: {
         api: 'https://json.heimuer.xyz',
         name: '黑木耳',
         detail: 'https://heimuer.tv'
-    },
-    ffzy: {
-        api: 'http://ffzy5.tv',
-        name: '非凡影视',
-        detail: 'http://ffzy5.tv'
     },
     tyyszy: {
         api: 'https://tyyszy.com',
